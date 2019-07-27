@@ -1,13 +1,16 @@
-body {
-    background: linear-gradient(to top left, #475f5c 33%, #006600 73%);
-}
-
 .jumbotron {
     margin-top: 200px;
     margin-bottom: 200px;
     margin-left: 75px;
     margin-right: 75px;
     background-color: rgb(58, 56, 56);
+}
+body {
+    background: linear-gradient(to top left, #475f5c 33%, #006600 73%);
+}
+.aRM {
+    max-width: 100%;
+    height: auto;
 }
 .ickis {
     display: block;
@@ -16,41 +19,45 @@ body {
     width: 50%;
 }
 .firstq {
-    font-family: 'Butcherman', cursive;
+    font-family: 'Lacquer', sans-serif;
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
     color: rgb(248, 226, 104);
-}
-#answer1 {
-    font-family: 'Butcherman', cursive;
-    text-align: center;
-    color: rgb(240, 235, 95);
 }
 .secondq {
-    font-family: 'Butcherman', cursive;
+    font-family: 'Lacquer', sans-serif;
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
     color: rgb(248, 226, 104);
 }
-.thirdq{
-    font-family: 'Butcherman', cursive;
+.thirdq {
+    font-family: 'Lacquer', sans-serif;
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
     color: rgb(248, 226, 104);
 }
 .fourthq {
-    font-family: 'Butcherman', cursive;
+    font-family: 'Lacquer', sans-serif;
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
     color: rgb(248, 226, 104);
 }
 .btn-success {
     font-family: 'Butcherman', cursive;
     text-align: center;
-    color: white;
+    color: black;
     font-size: 20px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+}
+
+.answers {
+    font-family: 'Lacquer', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: lightsalmon;
+    vertical-align: middle; margin-top: -1px;;
+    
 }
