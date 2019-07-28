@@ -43,6 +43,7 @@ body {
     font-size: 25px;
     color: rgb(248, 226, 104);
     vertical-align: middle; margin-top: -1px;;
+    object-fit: contain;
     
 }
 #qImg {
