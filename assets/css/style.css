@@ -18,31 +18,7 @@ body {
     margin-right: auto;
     width: 50%;
 }
-.firstq {
-    font-family: 'Lacquer', sans-serif;
-    text-align: center;
-    font-size: 40px;
-    color: rgb(248, 226, 104);
-}
-.secondq {
-    font-family: 'Lacquer', sans-serif;
-    text-align: center;
-    font-size: 40px;
-    color: rgb(248, 226, 104);
-}
-.thirdq {
-    font-family: 'Lacquer', sans-serif;
-    text-align: center;
-    font-size: 40px;
-    color: rgb(248, 226, 104);
-}
-.fourthq {
-    font-family: 'Lacquer', sans-serif;
-    text-align: center;
-    font-size: 40px;
-    color: rgb(248, 226, 104);
-}
-.btn-success {
+#startb {
     font-family: 'Butcherman', cursive;
     text-align: center;
     color: black;
@@ -60,4 +36,35 @@ body {
     color: lightsalmon;
     vertical-align: middle; margin-top: -1px;;
     
+}
+#triviaQ {
+    font-family: 'Lacquer', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(248, 226, 104);
+    vertical-align: middle; margin-top: -1px;;
+    
+}
+#qImg {
+    width: 100%;
+    height: auto;
+    object-fit: scale-down;
+}
+#A {
+    font-family: 'Lacquer', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: lightsalmon;
+}
+#B {
+    font-family: 'Lacquer', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: lightsalmon;
+}
+#C {
+    font-family: 'Lacquer', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: lightsalmon;
 }
