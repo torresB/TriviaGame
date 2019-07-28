@@ -13,37 +13,37 @@ var triviaQ = [
     {
         question: "Every year, the monsters compete in the riding of the Great Wave. Where does the Great Wave come from?",
         imgSrc: "assets/images/greatWave.jpeg",
-        choiceA: "false",
-        choiceB: "false",
-        choiceC: "true",
+        choiceA: "Ocean",
+        choiceB: "A vat of Saliva stored for a year",
+        choiceC: "Flushing toilets during Super Bowl half time",
         correct: "C"
     },{
         question: "What is my name?",
         imgSrc: "assets/images/Ickis.png",
-        choiceA: "true",
-        choiceB: "false",
-        choiceC: "false",
+        choiceA: "Ickis ",
+        choiceB: "Krum",
+        choiceC: "Oblina",
         correct: "A"
     },{
         question: "Oblina was able to give nightmares to humans by doing what?",
         imgSrc: "assets/images/oblina.png",
-        choiceA: "false",
-        choiceB: "false",
-        choiceC: "true",
+        choiceA: "Singing lullabies",
+        choiceB: "Hiding under their beds",
+        choiceC: "Tickling their brains through their ears",
         correct: "C"
     },{
         question: "Who thought they had a “squish” on Oblina?",
         imgSrc: "assets/images/Krumm.png",
-        choiceA: "true",
-        choiceB: "false",
-        choiceC: "false",
+        choiceA: "Krum",
+        choiceB: "The Gromble",
+        choiceC: "Ickis",
         correct: "A"
     },{
         question: "What happens during the regular Festival of the Festering Moon?",
         imgSrc: "assets/images/partingMonsters.jpeg",
-        choiceA: "false",
-        choiceB: "true",
-        choiceC: "false",
+        choiceA: "The monsters get their adult stench",
+        choiceB: "The monsters shed their skin",
+        choiceC: "The Monsters have a feast",
         correct: "B"
     }
 ];
